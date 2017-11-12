@@ -3,11 +3,14 @@ body {
 	font-family: 'Ubuntu', sans-serif;
 }
 nav {
-	background-color: #9DD5DF
+	background-color: #105F6D
 }
 img {
 	max-width: 200
 }
 li {
-	font: 
+	border-spacing:
+}
+iframe {
+	max-width: 500
 }
